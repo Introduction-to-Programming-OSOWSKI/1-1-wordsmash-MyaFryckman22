@@ -1,5 +1,5 @@
 #define function 
 def wordSmash(a,b):
-    print (a + b)
+    return (a+b)
 
-wordSmash("Red", "Blue")
+print(wordSmash("Red", "Blue"))
